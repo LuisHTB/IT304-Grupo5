@@ -8,6 +8,10 @@
 * Luís Henrique Bandória RA: 156449
 * Roberto Tilhaqui Junior RA: 233671
 
+## Link para apresentação no YouTube
+
+https://www.youtube.com/watch?v=__5Nt2nRlwc
+
 # Introdução
 
 A comercialização de energia no Brasil é realizada em duas esferas de mercado: o Ambiente de Contratação Regulada (ACR) e o Ambiente de Contratação Livre (ACL). Todos os contratos, sejam do ACR ou do ACL, têm de ser registrados na CCEE, e servem de base para a contabilização e liquidação das diferenças no mercado de curto prazo. A diferença entre os dois tipos de contração encontra-se no quadro mostrado na Figura 1.
